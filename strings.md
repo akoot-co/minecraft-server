@@ -8,7 +8,7 @@ If you don't have a text editor, use [this site](https://www.toml-lint.com/)! I 
 
 # What do I do now..
 Consider the following in-game message:
-![[Pasted image 20221205213415.png]]
+![Exhibit A](https://raw.githubusercontent.com/akoot-co/minecraft-server/master/Pasted%20image%2020221205213415.png)
 Now is the time for action. Type the command that is "broken", and click on the first line it spits out. this will give you the path.
 
 Paste the path in the text editor, within brackets.
@@ -26,7 +26,7 @@ Notice the `$TITLE` in this string. As you can see, the message you get in-game 
 Placeholders start with a dollar sign `$`, and will be computed with the actual value in-game. An error message like the one above will tell you which placeholders you are allowed to use. You don't have to use any placeholders, but depending on what you want the message to say, you should use them!
 
 Here's another example:
-![[Pasted image 20221205213733.png]]
+![Exhibit B](https://raw.githubusercontent.com/akoot-co/minecraft-server/master/Pasted%20image%2020221205213733.png)
 Here we see a total of 2 placeholders, `TITLES` and `PLAYER`.
 
 We can then create a message string like so:
