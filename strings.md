@@ -15,6 +15,7 @@ Paste the path in the text editor, within brackets.
 For example: \[messages.select.value.error]
 
 Notice that the last part is not copied. That is because the last part is actually the "key".
+
 Underneath \[messages.select.value.error], you write `key = "message"`
 
 Example:
